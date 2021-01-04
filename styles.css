@@ -1,0 +1,14 @@
+li{
+    background:lightblue;
+    float: left;
+
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJbaCM1Pj-qmVOAWL0yQjiyclEHWs4XW-rBg&usqp=CAU");
+}
+ul{
+    list-style: none;
+    overflow: auto;
+}
+body{text-align:center;}
+h3{background-color:yellow;}
